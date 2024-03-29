@@ -30,9 +30,9 @@ From the [Sensirion I2C-SDP Repository](https://github.com/Sensirion/arduino-i2c
 4. When finished, close the Python program (`Ctrl-C`)
 
 ## Images
-![Sensirion Pressure Sensor connected to Arduino UNO](images\20240328_184812.jpg)
+![Sensirion Pressure Sensor connected to Arduino UNO](images/20240328_184812.jpg)
 
-![Sensirion Pressure Sensor connected to Arduino Portenta H7](images\20240225_234952.jpg)
+![Sensirion Pressure Sensor connected to Arduino Portenta H7](images/20240225_234952.jpg)
 
 
 ## Live Sensor Graph Demo

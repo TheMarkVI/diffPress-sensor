@@ -37,10 +37,8 @@ From the [Sensirion I2C-SDP Repository](https://github.com/Sensirion/arduino-i2c
 
 ## Live Sensor Graph Demo
 This is a demo of the python program acquiring differential pressure data from the Arduino
-<video width="480" height="480" controls>
-    <source src="images/graphDemo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+The video is located in [images/graphDemo.mp4](https://github.com/TheMarkVI/diffPress-sensor/blob/main/images/graphDemo.mp4)
+<!-- ![Video](images/graphDemo.mp4) -->
 
 ## References
 - GitHub Copilot for suggesting code to get it working in the first place

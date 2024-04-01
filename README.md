@@ -41,7 +41,7 @@ The video is located in [images/graphDemo.mp4](https://github.com/TheMarkVI/diff
 <!-- ![Video](images/graphDemo.mp4) -->
 
 ## References
-- GitHub Copilot for suggesting code to get it working in the first place
+- Code suggestions from GitHub Copilot
 - [Matplotlib: Visualization with Python](https://matplotlib.org/)
 - [Instructables: Arduino Python Communication via USB](https://www.instructables.com/Arduino-Python-Communication-via-USB/)
 - [Instructables: Sending Data From Arduino to Python Via USB](https://www.instructables.com/Sending-Data-From-Arduino-to-Python-Via-USB/)
